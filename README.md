@@ -21,6 +21,12 @@ Before you start, you need to have R installed on your computer.
 
 ---
 
+## 📂 Example Files
+
+In this repository, you will find two CSV files that serve as examples:
+-   **`keywords_template.csv`**: A simple template showing how to structure your input keywords. You can upload this to your Google Sheet or copy its structure.
+-   **`sample_results.csv`**: An example of what the output data looks like after the script runs. This shows the data structure (Date, Keyword, Rank, URL, Title, Snippet).
+
 ## 📝 Step-by-Step Guide
 
 ### 1. Get Your API Key
