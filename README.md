@@ -47,7 +47,7 @@ In this repository, you will find two CSV files that serve as examples:
         | 3 | best espresso |
 
 5.  **Important:** Copy the **Sheet ID** from the URL.
-    *   URL format: `https://docs.google.com/spreadsheets/d/`**`1LuxygBoRkUlnZ6mO8gLcm6WS3j64h0CWliasCmXh1Tk`**`/edit`
+    *   URL format: `https://docs.google.com/spreadsheets/d/`**`1A2b3C4d5E6f7G8h9I0j1K2l3M4n5O6p7Q8r9S0tUVw`**`/edit`
     *   Your ID is the long string of random characters between `/d/` and `/edit`.
 
 ### 3. Setup the Script
