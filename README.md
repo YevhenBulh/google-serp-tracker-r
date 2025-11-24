@@ -7,7 +7,7 @@ It's designed for SEO specialists, marketers, and data enthusiasts who want a li
 ## ✨ Features
 *   **Inputs:** Reads keywords directly from your Google Sheet.
 *   **Processing:** Checks the top 30 Google results (US location by default) for each keyword.
-*   **Output:** Creates a NEW tab in your Google Sheet with today's date (e.g., `2024-05-20_positions`) containing all rankings.
+*   **Output:** Creates a NEW tab in your Google Sheet with today's date (e.g., `2025-11-25_positions`) containing all rankings.
 *   **Cost:** **Free** for the first ~2,500 searches (Serper.dev offers free credits on sign-up).
 
 ---
